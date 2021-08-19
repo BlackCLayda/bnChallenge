@@ -25,7 +25,7 @@
 * Web and/or Desktop interface.
 * Add command to list available files specific to each client.
 * Secure the encryption key. 
-* Support more file types. 
+* Handle more file types. 
 
 ------------
 
