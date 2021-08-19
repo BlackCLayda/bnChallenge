@@ -1,10 +1,10 @@
-# BN Challenge
+# BN Challenge 👓
 
 * a simple client-server application for uploading/downloading files. The application consists of two parts:
 1. A client, which can select a file and upload it to the server. A client can download the previously uploaded file from the server.
 2. A server, which receives files from clients, and serves the files back to them upon request.
 
-* The application only supports txt and pdf files so far. 
+* The application only handles txt and pdf files so far. 
 * Note that if you use an IDE, the client and the server are two different projects
 
 
